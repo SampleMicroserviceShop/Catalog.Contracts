@@ -8,7 +8,7 @@
 	<Authors>MH Karami</Authors>
 	<Company>SampleMicroserviceShop</Company>
 	<RepositoryUrl>
-		https://github.com/SampleMicroserviceShop/Catalog.Service
+		https://github.com/SampleMicroserviceShop/Catalog.Contracts
 	</RepositoryUrl>
 	<PackageId>Catalog.Contracts</PackageId>
   </PropertyGroup>
